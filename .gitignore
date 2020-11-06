@@ -1,0 +1,9 @@
+  
+.idea/*
+*env/*
+.vscode
+.terraform
+.DS_Store
+build/*
+example/*
+app/app-lambda
